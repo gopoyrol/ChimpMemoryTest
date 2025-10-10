@@ -2,7 +2,7 @@
 
 _A challenging visual short-term memory test inspired by the research where chimpanzees outperformed humans in memory tasks._
 
-![ChimpMemoryTest](https://raw.githubusercontent.com/michaelsboost/ChimpMemoryTest/main/imgs/screenshot.png)
+![ChimpMemoryTest](https://raw.githubusercontent.com/michaelsboost/ChimpMemoryTest/main/imgs/screenshot.jpeg)
 
 
 [![MIT License](https://img.shields.io/github/license/michaelsboost/ChimpMemoryTest)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/michaelsboost/ChimpMemoryTest)](https://github.com/michaelsboost/ChimpMemoryTest/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/michaelsboost/ChimpMemoryTest)](https://github.com/michaelsboost/ChimpMemoryTest/issues)
